@@ -1,0 +1,5 @@
+PHPUNIT
+
+  1. Maak de test classes aan in de "tests/classes" map (zoals het voorbeeld test.class.php)
+  2. Terminal: cd ../../../../../../Applications/XAMPP/htdocs/kremplate/tests (verplaats naar de phpunit.phar locatie)
+  3. Terminal: php phpunit.phar classes/Test.class.php (start phpunit met de gewenste ClassName.test.php)
